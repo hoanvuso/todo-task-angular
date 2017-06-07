@@ -1,0 +1,14 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc", "**/*.txt"
+  ],
+  "dependencies": {
+     "angular": "~1.6",
+     "jquery": "~2.0"
+  },
+  "devDependencies": {
+  }
+}

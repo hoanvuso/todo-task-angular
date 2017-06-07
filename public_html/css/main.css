@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+}
+ul#todo-list li label {
+    /* padding-left: 30px; */
+    /* float: left; */
+    width: 70%;
+}
+ul#todo-list {
+    padding:0px;
+}
+ul#todo-list li{
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
